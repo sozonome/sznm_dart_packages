@@ -1,7 +1,7 @@
 name: sznm_lints
 description: sozonome's personal lint rules.
 version: 1.0.0
-homepage: null
+homepage: https://dart.sznm.dev
 
 environment:
   sdk: ">=2.15.1 <3.0.0"
