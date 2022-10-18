@@ -1,0 +1,15 @@
+{
+  "name": "sznm_dart_packages_docs",
+  "version": "1.0.0",
+  "author": "sozonome",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "serve": "vitepress serve"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.21",
+    "vue": "^3.2.41"
+  }
+}

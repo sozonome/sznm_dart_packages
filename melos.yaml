@@ -3,6 +3,7 @@ repository: https://github.com/sozonome/sznm_dart_packages
 
 packages:
   - packages/**
+  - website/**
 
 command:
   version:
