@@ -1,6 +1,6 @@
 name: sznm_lints
 description: sozonome's personal lint rules.
-version: 0.0.1
+version: 1.0.0
 homepage: null
 
 environment:
