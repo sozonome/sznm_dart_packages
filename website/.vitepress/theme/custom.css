@@ -20,3 +20,10 @@ html,
 body {
   font-family: 'Outfit' !important;
 }
+
+:root {
+  --vp-c-brand: #3182CE;
+  --vp-c-brand-dark: #4299E1;
+  --vp-button-brand-border: blue;
+  --vp-button-brand-hover-border: teal;
+}
