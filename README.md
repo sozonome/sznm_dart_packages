@@ -1,3 +1,1 @@
-# sznm_dart_packages
-
-Collection of dart / flutter packages used personally by sozonome
+<img src="https://og.sznm.dev/api/generate?heading=sznm_dart_packages&text=Collection%20of%20dart%20/%20flutter%20packages%20used%20personally%20by%20sozonome&template=color&center=true&height=320" />

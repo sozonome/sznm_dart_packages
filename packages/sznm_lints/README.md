@@ -1,6 +1,5 @@
-# sznm_lints
+<img src="https://og.sznm.dev/api/generate?heading=sznm_lints&text=sozonome%27s%20personal%20lint%20rules%20for%20dart%20and%20flutter.&template=color&center=true&height=320" />
 
-personal lint rules for dart and flutter.
 
 ## References
 
